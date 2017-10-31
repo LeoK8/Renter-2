@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <div class="background-header">
+      <div class="header">
+      </div>
+      <div class="containeer">
+        <div class="skyline">
+          <div class="box">
+            <h2>
+            <br>
+            Find Your Next Appartment in no Time
+            </h2>
+            <hr>
+            <h3><b>RenteR</b> is the cheapest, safest and fastest service <br> to find a student accomodation in the U.S</h3>
+            <br>
+            <a class="btn btn-dark" href="#wufoo-z1xg4ag1ubm3qb">TRY IT</a>
+            <br>
+            <br>
+          </div>
+          <br>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h2>Free Service</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8 offset-md-4">
+          <h2>Free Service</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8">
+          <h2>Free Service</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-8 offset-md-4">
+          <h2>Free Service</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+      </div>
+    </div>
+
+  
+
+
+      <div class="street">
+        <div class="small-box whitee">
+          <img src="img/dollar.png">
+        </div>
+        <div class="small-text">
+          <h2>Free Service</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+        <div class="smalll-box whitee">
+          <img src="img/lock.png">
+        </div>
+        <div class="smalll-text">
+          <h2>Secure</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+        <div class="smallll-box whitee">
+          <img src="img/globe.png">
+        </div>
+        <div class="smallll-text">
+          <h2>International</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+        <div class="smalllll-box whitee">
+          <img src="img/hand.png">
+        </div>
+        <div class="smalllll-text">
+          <h2>International</h2>
+          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="form">
+    <div id="wufoo-z1xg4ag1ubm3qb">
+      Fill out my <a href="https://leok.wufoo.com/forms/z1xg4ag1ubm3qb">online form</a>.
+    </div>
+    <div id="wuf-adv" style="font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;">Use <a href="http://www.wufoo.com/partners/">Wufoo integrations</a> and get your data to your favorite apps.</div>
+    <script type="text/javascript">var z1xg4ag1ubm3qb;(function(d, t) {
+    var s = d.createElement(t), options = {
+    'userName':'leok',
+    'formHash':'z1xg4ag1ubm3qb',
+    'autoResize':true,
+    'height':'687',
+    'async':true,
+    'host':'wufoo.com',
+    'header':'show',
+    'ssl':true};
+    s.src = ('https:' == d.location.protocol ? 'https://' : 'http://') + 'www.wufoo.com/scripts/embed/form.js';
+    s.onload = s.onreadystatechange = function() {
+    var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return;
+    try { z1xg4ag1ubm3qb = new WufooForm();z1xg4ag1ubm3qb.initialize(options);z1xg4ag1ubm3qb.display(); } catch (e) {}};
+    var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr);
+    })(document, 'script');</script>
+  </div>
+
+
+  <div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p>mon joli footer</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
